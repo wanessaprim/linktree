@@ -1,7 +1,7 @@
-<h1 align="right"> Linktree </h1>
+<h1 align="center"> Linktree </h1>
 
-<p align="right">
-Projeto inicial promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<p align="center">
+Projeto executado por mim, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
@@ -26,9 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Linktree é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Acesse o projeto finalizado, online](https://wanessaprim.github.io/linktree/)
 
 ## 🔖 Layout
 
