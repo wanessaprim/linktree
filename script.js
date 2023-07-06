@@ -13,7 +13,7 @@ function toggleMode() {
     if(html.classList.contains('light')) {
     img.setAttribute('src','./assets/avatar-light3x.png')
     } else{
-    img.setAttribute('src','./assets/avatar3x.png')
+    img.setAttribute('src','./assets/Avatar3x.png')
     }
 
     if(html.classList.contains('light')){
